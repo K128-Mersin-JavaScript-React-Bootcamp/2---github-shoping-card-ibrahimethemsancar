@@ -11,3 +11,115 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.title{
+  font-size: 45px;
+  font-family: 'Public Sans';
+  line-height: 62px;
+line-height: 94%;
+text-align: Center;
+vertical-align: Top;
+letter-spacing: -2.4px
+
+}
+.title.name{
+  font-size: 70px;
+  color: rgb(233, 73, 73);
+  
+}
+
+.paragraph{
+  font-family:"Public Sans";
+font-style: "Regular";
+font-size: 20px;
+line-height: 28px;
+line-height: 119%;
+text-align: center;
+vertical-align: top;
+letter-spacing: -0.4px
+}
+
+.commImage{
+  width: 612px;
+  height: 521px;
+}
+.LoremLogo{
+  background-color: white;
+  width: 170px;
+  height: 100px;
+}
+
+.image{
+  width: 150px;
+  height: 150px;
+}
+
+.products{
+  margin: 20px 20px;
+  border-width: thick;
+}
+
+#productsView{
+  margin-left: 170px;
+}
+.checkDiv{
+  margin-left: -85rem;
+  margin-top: -120px;
+  display:-webkit-inline-box;
+  width: 100px;
+}
+
+.row{
+  margin-top: 200px;
+}
+
+#login{
+ position: absolute;
+ right: 0;
+}
+
+.loginForm{
+  margin-top: 10rem;
+  position:absolute ;
+  right: 35%;
+  border-width:thick ;
+}
+
+.text{
+  width: 400px;
+  height: 30px;
+  border-radius: 0.5rem;
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
+
+.pass{
+  width: 400px;
+  height: 30px;
+  border-radius: 0.5rem;
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
+
+.form{
+  border-style: solid;
+  width: 35rem;
+  height: 20rem;
+  
+}
+
+#btnPass{
+  margin-left: 50%;
+  margin-top: 1rem;
+  width: 10rem;
+}
+
+#formHead{
+  margin-left: 40%;
+  padding-top: 1rem;
+}
+
+#formh{
+  opacity: 0.5;
+  margin-left: 40%;
+  margin-top: 0.2rem;
+}
