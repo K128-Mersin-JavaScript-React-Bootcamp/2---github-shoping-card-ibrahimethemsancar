@@ -123,3 +123,50 @@ letter-spacing: -0.4px
   margin-left: 40%;
   margin-top: 0.2rem;
 }
+
+.card{
+  position: absolute;
+ right: 50%; 
+ margin-top: 50px;
+ 
+}
+
+
+.card-info{
+  
+  
+ float: left;
+ width: max-content;
+}
+
+
+
+.card-img{
+  width: 250px;
+}
+
+.inf{
+  display: inline-block;
+  margin-right: 9rem;
+}
+
+.count{
+  align-items: flex-end;
+  float: right;
+  border-style: solid;
+  width: 11rem;
+  display: inline-block;
+  font-size: 30px;
+  border-width: 2px;
+}
+
+.process{
+  margin: 5px 18px;
+  border-style: groove;
+  
+}
+
+.cardbtn{
+  width: 200px;
+  align-items: center;
+}

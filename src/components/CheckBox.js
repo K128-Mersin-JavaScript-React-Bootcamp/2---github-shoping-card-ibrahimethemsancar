@@ -10,7 +10,7 @@ export default function CheckBox({items,setItems,firstValue}) {
     const [checked, setChecked] = useState(false);
     const [value,setValue]=useState('')
     console.log(firstValue)
-    const categories=["Jackets","Shirts","Fleece"]
+    
     let filteredItems=[]
     function onHandleCheck(){
         setChecked(!checked)
